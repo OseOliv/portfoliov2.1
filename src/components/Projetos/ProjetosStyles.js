@@ -33,6 +33,16 @@ export const ProjetoTittleContainer = styled.div`
   margin: 0rem auto;
   padding: 0rem 3.125rem;
 
+  &::after {
+    content: "";
+    display: block;
+    position: relative;
+    width: 650px;
+    height: 3px;
+    margin-left: 20px;
+    background-color: rgba(137, 43, 226, 0.3);
+}
+
   @media screen and (max-width: 756px) {
     display: flex;
     align-items: center;
@@ -47,6 +57,8 @@ export const ProjetoTittle = styled.h1`
   text-align: start;
   margin-top: 0rem;
   padding-top: 7rem;
+
+  
 
   @media screen and (max-width: 756px) {
     padding-top: 3rem;
