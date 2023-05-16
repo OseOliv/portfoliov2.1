@@ -1,0 +1,21 @@
+.inner {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.item img {
+    width: 600px;
+    height: 350px;
+    padding: 2px;
+    margin-right: 2rem;
+    border-radius: 20px;
+    pointer-events: none;
+    border: 2px solid transparent;
+    background: linear-gradient(to right, #13f78c, #03e9f4, rgb(138, 43, 226)) border-box;
+}
+
+.carousel {
+    cursor: grab;
+    overflow: hidden;
+}
