@@ -82,7 +82,7 @@ export const NavbarLink = styled.a`
   font-family: "Roboto Mono", monospace;
   color: lightblue;
   font-weight: 600;
-  font-size: 1.125rem;
+  font-size: 1rem;
   margin-right: 1.7rem;
 
   &::before {
