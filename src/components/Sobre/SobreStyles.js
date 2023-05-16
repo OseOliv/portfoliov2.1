@@ -88,7 +88,7 @@ export const AboutTextContent = styled.p`
   justify-content: center;
   letter-spacing: 2px;
   color: #ffffff;
-  font-family: "Roboto Mono", monospace;
+  font-family: "Source Code Pro", monospace;
   margin-bottom: 0rem;
   padding-bottom: 0rem;
 
