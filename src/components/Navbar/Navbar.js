@@ -41,7 +41,7 @@ function Navbar() {
           </NavbarLinkContainer>
         </MenuContainer>
         <LogoContainer>
-          <a href="#main">
+          <a href="/">
             <LogoNavbar src={Logo}></LogoNavbar>
           </a>
         </LogoContainer>
