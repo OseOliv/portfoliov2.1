@@ -22,7 +22,7 @@ function Navbar() {
       <NavbarInnerContainer>
         <MenuContainer>
           <NavbarLinkContainer>
-            <NavbarLink href="#main"> Inicio </NavbarLink>
+            <NavbarLink href="/"> Inicio </NavbarLink>
             <NavbarLink href="#sobre"> Sobre </NavbarLink>
             <NavbarLink href="#projetos"> Projetos </NavbarLink>
             <NavbarLink href="#contato"> Contato </NavbarLink>
@@ -51,7 +51,7 @@ function Navbar() {
         <NavbarExtendedContainer>
           <NavbarLinkExtended
             onClick={() => setExtendNavbar(false)}
-            href="#main"
+            href="/"
           >
             Inicio
           </NavbarLinkExtended>
