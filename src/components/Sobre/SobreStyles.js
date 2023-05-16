@@ -31,6 +31,16 @@ export const AboutTextTitleContainer = styled.div`
   max-width: 68.75rem;
   margin: 0rem auto;
 
+  &::after {
+    content: "";
+    display: block;
+    position: relative;
+    width: 650px;
+    height: 3px;
+    margin-left: 20px;
+    background-color: rgba(137, 43, 226, 0.3);
+}
+
 
   @media screen and (max-width: 756px){
     display: flex;
@@ -49,10 +59,12 @@ export const AboutTextTitle = styled.h1`
   margin-top: 0rem;
   padding-top: 7rem;
 
+
   @media screen and (max-width: 756px) {
     padding-top: 3rem;
     
   }
+
 `;
 
 //ABOUT TEXT CONTENT
