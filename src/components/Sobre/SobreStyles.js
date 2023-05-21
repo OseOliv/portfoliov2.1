@@ -122,7 +122,7 @@ export const AboutAvatar = styled.img`
 
   &:hover {
     border: 0.1875rem solid aqua;
-    transform: scale(1.3);
+    transform: scale(1.1);
     transition: 0.3s ease-in;
   }
 `;
