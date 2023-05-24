@@ -14,7 +14,9 @@ import ProImg0 from "../../assets/img/teste-projetos.png";
 import ProImg1 from "../../assets/img/teste-projetos1.png";
 import ProImg3 from "../../assets/img/teste-projetos3.png";
 import ProImg4 from "../../assets/img/teste-projetos4.png";
-import ProjetoCarousel from './Carousel/Carousel'
+import ProImg5 from "../../assets/img/teste-projetos5.png";
+
+import ProjetoCarousel from "./Carousel/Carousel";
 
 export default function ProjetosCard(props) {
   return (
@@ -49,6 +51,14 @@ export default function ProjetosCard(props) {
         />
 
         <CardContent
+          img={ProImg5}
+          title="IMC App"
+          description="App para calcular o Índice de Massa Corpórea (IMC), utilizando o TypeScript e CSS Modules (App Responsivo)"
+          skill="▹React ▹Typescript ▹CSS"
+          buttonlink="https://github.com/OseOliv/IMC-APP-TS"
+        />
+
+        <CardContent
           img={ProImg3}
           title="Pokedex Pokemon"
           description="Modelo simples de uma Pokedex Pokémon, utilizando a PokeAPI e estilizando apenas com CSS e JavaScript."
@@ -58,7 +68,9 @@ export default function ProjetosCard(props) {
       </CardContentContainer>
 
       <ButtonWrapper>
-      <Link to="https://github.com/OseOliv" target="_blanc"><Button>VER MAIS...</Button></Link>
+        <Link to="https://github.com/OseOliv" target="_blanc">
+          <Button>VER MAIS...</Button>
+        </Link>
       </ButtonWrapper>
     </ProjetosSection>
   );
