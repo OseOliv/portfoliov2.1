@@ -63,7 +63,7 @@ export default function ProjetosCard(props) {
           title="Pokedex Pokemon"
           description="Modelo simples de uma Pokedex Pokémon, utilizando a PokeAPI e estilizando apenas com CSS e JavaScript."
           skill="▹HTML ▹CSS ▹JavaScript ▹PokeAPI"
-          buttonlink="https://github.com/OseOliv/Modelo-Simples-PokeDex-Dio"
+          buttonlink="https://github.com/OseOliv/Pokedex"
         />
       </CardContentContainer>
 
