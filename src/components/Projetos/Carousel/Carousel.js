@@ -7,6 +7,7 @@ import img0 from "../../../assets/img/teste-projetos.png";
 import img1 from "../../../assets/img/teste-projetos1.png";
 import img2 from "../../../assets/img/teste-projetos2.png";
 import img3 from "../../../assets/img/teste-projetos3.png";
+import img4 from "../../../assets/img/teste-projetos5.png"
 
 import { CarouselContainer } from "../ProjetosStyles";
 
