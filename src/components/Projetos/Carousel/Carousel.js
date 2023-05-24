@@ -14,7 +14,8 @@ const projetosImg =  [
 { img: img0, link: "https://github.com/OseOliv/portfolio-v1" },
 { img: img1, link: "https://github.com/OseOliv/Exemple-Coffee-Shop-WebSite-BootStrap" },
 { img: img2, link: "https://github.com/OseOliv/Exercicio-1-CSS-DIO" },
-{ img: img3, link: "https://github.com/OseOliv/Modelo-Simples-PokeDex-Dio" }
+{ img: img3, link: "https://github.com/OseOliv/Modelo-Simples-PokeDex-Dio" },
+{ img: img4, link: "https://github.com/OseOliv/IMC-APP-TS" }
 ]
 
 
