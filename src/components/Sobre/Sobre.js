@@ -67,7 +67,6 @@ function Sobre() {
             <SkillList> Axios </SkillList>
             <SkillList> JavaScript </SkillList>
             <SkillList> TypeScript </SkillList>
-            <SkillList> Chakra UI </SkillList>
             <SkillList> React </SkillList>
             <SkillList> Node.js </SkillList>
             <SkillList> styled-components </SkillList>
