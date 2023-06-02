@@ -15,6 +15,7 @@ import ProImg1 from "../../assets/img/teste-projetos1.png";
 import ProImg3 from "../../assets/img/teste-projetos3.png";
 import ProImg4 from "../../assets/img/teste-projetos4.png";
 import ProImg5 from "../../assets/img/teste-projetos5.png";
+import ProImg6 from "../../assets/img/teste-projetos6.png";
 
 import ProjetoCarousel from "./Carousel/Carousel";
 
@@ -40,6 +41,14 @@ export default function ProjetosCard(props) {
           description="Modelo de website para uma cafeteria, feito com alguns frameworks e utilizando algumas bibliotecas."
           skill="▹HTML ▹CSS ▹Bootstrap ▹JavaScript"
           buttonlink="https://github.com/OseOliv/Exemple-Coffee-Shop-WebSite-BootStrap"
+        />
+            
+         <CardContent
+          img={ProImg6}
+          title="Jogo da Memoria - OP"
+          description="Modelo de um jogo da memória com cards de personagens de One Piece, utilizando React, TypeScript e styled-components."
+          skill="▹React ▹Typescrit ▹styled-components"
+          buttonlink="https://github.com/OseOliv/op-memory-game"
         />
 
         <CardContent
