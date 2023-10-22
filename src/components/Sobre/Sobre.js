@@ -63,8 +63,6 @@ function Sobre() {
           <SkillContainer>
             <SkillList> HTML </SkillList>
             <SkillList> CSS </SkillList>
-            <SkillList> SASS </SkillList>
-            <SkillList> Axios </SkillList>
             <SkillList> JavaScript </SkillList>
             <SkillList> TypeScript </SkillList>
             <SkillList> React </SkillList>
