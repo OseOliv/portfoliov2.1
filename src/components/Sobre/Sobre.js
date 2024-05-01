@@ -24,32 +24,14 @@ function Sobre() {
           <AboutTextContainer>
             <AboutTextContent>
               <p>
-                Eu sou Oseas Oliveira, desenvolvedor web de Salvador-BA. Como
-                profissional eu me esforço para criar designs sucintos,
-                elegantes e responsivos, que proporcionem a melhor experiência
-                possível aos usuários.
+                Meu nome é Oseas Oliveira, sou um desenvolvedor front-end. Minha abordagem se concentra na efetividade e na aplicação das melhores práticas na escrita de códigos, visando sempre proporcionar a melhor experiência aos usuários.
                 <br />
                 <br />
-                Minha primeira interação com tecnologia ocorreu por meio da
-                minha família, que sempre trabalhou na área de TI. Em 2005, tive
-                meu primeiro contato com "Web Designer" e fiquei fascinado com o
-                que poderia criar e fazer visualmente com um computador.
+                A tecnologia tem sido uma presença constante em minha vida. Foi em 2005 que tive meu primeiro contato com o mundo do "Web Design", e desde então fiquei fascinado com as possibilidades visuais que um computador poderia oferecer.
                 <br />
                 <br />
-                Trabalhei como designer gráfico de 2018 até 2012, quando decidi
-                me dedicar à área de gastronomia e trabalhei como chef de
-                cozinha por quase nove anos em navios de cruzeiro. No entanto,
-                me mantive atento as novidades que surgiram na área de
-                desenvolvimento web nos últimos anos.
-                <br />
-                <br />
-                Em janeiro de 2023, decidi voltar para a área de TI. Desde então
-                tenho me dedicado a estudar as principais linguagens de
-                programação front-end, frameworks e bibliotecas mais recentes.
-                <br />
-                <br />
-                Algumas linguagens, frameworks e bibliotecas com as quais tenho
-                trabalhado recentemente:
+Apesar de minha experiência de 12 anos na gastronomia, nunca deixei de acompanhar as novidades no desenvolvimento web. Hoje, mantenho-me focado nos estudos das linguagens front-end e nas últimas tecnologias, buscando aprimorar constantemente minhas habilidades.
+              
                 <br />
                 <br />
               </p>
